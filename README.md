@@ -6,4 +6,4 @@
   https://www.linkedin.com/in/mohammed-gahelrasoul/
   
 - Check out my portfolio for some of my work !
-Currently adding my ongoing/completed projects to github for the first time
+- Currently adding my ongoing/completed projects to github for the first time
