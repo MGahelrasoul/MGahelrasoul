@@ -1,4 +1,4 @@
-Check out some of my projects LIVE on my Portfolio: http://ec2-18-117-72-225.us-east-2.compute.amazonaws.com
+Check out some of my projects on my Portfolio: http://ec2-18-117-72-225.us-east-2.compute.amazonaws.com
 
 - 👋 Hi I’m @MGahelrasoul, you can call me Mo
 - 👀 I’m interested in Full Stack development and creating new projects
