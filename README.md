@@ -6,5 +6,3 @@ Check out some of my projects on my Portfolio: http://ec2-18-117-72-225.us-east-
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 If you'd like to get in touch I'm available through email or LinkedIn:
   https://www.linkedin.com/in/mohammed-gahelrasoul/
-
-Currently working on updating YelpCamp and building a Bug Tracker web application
