@@ -1,6 +1,6 @@
 ## Hey, I'm Mohammed :)
 
-🍎 Front End Software Engineer</br>
+🍎 Full Stack Software Engineer</br>
 📜 Working with Typescript, React, and Node</br>
 🖋️ I develop interactive user interfaces and web applications</br>
 🎨 I pursue digital art, game development, and content creation in my free time.</br>
