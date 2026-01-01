@@ -8,7 +8,8 @@ My main tech stack is react, typescript, tailwind, and motion. My favorite tools
 
 I've built 25+ public repos, not including those on codecommit and gitlab.
 
-My favorite projects aren't all public, but my [Portfolio](https://mgahelrasoul.com/)'s pretty cool.
+My favorite projects aren't all public, but I'd love to chat more about my experiences! 
+[**LinkedIn**](https://www.linkedin.com/in/mgahelrasoul/) | [**Email**](mailto:M97gahelrasoul@gmail.com) :)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
